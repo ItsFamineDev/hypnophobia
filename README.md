@@ -3,6 +3,10 @@ This is the OFFICIAL Github World File by "ItsFamineDev" for the Hypnophobia [TH
 
 This map supports multiplayer!!
 
+# Instructional video:
+
+[![Click here!](https://img.youtube.com/vi/pBwr6mhXHhY/0.jpg)](https://www.youtube.com/watch?v=pBwr6mhXHhY)
+
 **Command Stuff**
 
 ```
@@ -78,6 +82,4 @@ If you are struggling loading the world, try doing less ram like 6k, if you do t
 # DEDICATE 6-8k RAM, ANYTHING ABOVE 8k CAN BE TOO MUCH AND MIGHT CAUSE ISSUES
 # If you are in singleplayer open your world to LAN
 
-# Instructional video:
 
-[![Click here!](https://img.youtube.com/vi/pBwr6mhXHhY/0.jpg)](https://www.youtube.com/watch?v=pBwr6mhXHhY)
