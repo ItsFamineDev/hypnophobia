@@ -1,4 +1,4 @@
-[# Hypnophobia [THINK TANK]
+# Hypnophobia [THINK TANK]
 This is the OFFICIAL Github World File by "ItsFamineDev" for the Hypnophobia [THINK TANK] Map, this should not be downloaded from anywhere else besides here or through my discord server. This is ALL RIGHTS RESERVED, and Should NOT be posted anywhere or by anyone else
 
 This map supports multiplayer!!
@@ -78,6 +78,3 @@ If you are struggling loading the world, try doing less ram like 6k, if you do t
 # Instructional video:
 
 [![Click here!](https://img.youtube.com/vi/pBwr6mhXHhY/0.jpg)](https://www.youtube.com/watch?v=pBwr6mhXHhY)
-
-
-](https://github.com/ItsFamineDev/think_tank.git)
