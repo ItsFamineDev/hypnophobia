@@ -7,6 +7,14 @@ This map supports multiplayer!!
 
 [![Click here!](https://img.youtube.com/vi/pBwr6mhXHhY/0.jpg)](https://www.youtube.com/watch?v=pBwr6mhXHhY)
 
+# IF LSERA (angel eye)  ISNT WORKING RELOG AND IT SHOULD FIX
+
+If you are struggling loading the world, try doing less ram like 6k, if you do too much ram it’ll max out and seem like it’s not working
+
+# DEDICATE 6-8k RAM, ANYTHING ABOVE 8k CAN BE TOO MUCH AND MIGHT CAUSE ISSUES
+# If you are in singleplayer open your world to LAN
+
+
 **Command Stuff**
 
 ```
@@ -75,11 +83,5 @@ Tp to limbo
 
 
 ```
-# IF LSERA (angel eye)  ISNT WORKING RELOG AND IT SHOULD FIX
-
-If you are struggling loading the world, try doing less ram like 6k, if you do too much ram it’ll max out and seem like it’s not working
-
-# DEDICATE 6-8k RAM, ANYTHING ABOVE 8k CAN BE TOO MUCH AND MIGHT CAUSE ISSUES
-# If you are in singleplayer open your world to LAN
 
 
