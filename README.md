@@ -69,7 +69,10 @@ Tp to limbo
 
 /execute in minecraft:limbo run tp @s 447 319 -232 -45 36
 
+
 ```
+# IF LSERA (angel eye)  ISNT WORKING RELOG AND IT SHOULD FIX
+
 If you are struggling loading the world, try doing less ram like 6k, if you do too much ram it’ll max out and seem like it’s not working
 
 # DEDICATE 6-8k RAM, ANYTHING ABOVE 8k CAN BE TOO MUCH AND MIGHT CAUSE ISSUES
