@@ -5,8 +5,7 @@ This map supports multiplayer!!
 
 # Instructional video:
 
-**Setup Video:**
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bOq8lfuHkb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Click here!](https://img.youtube.com/vi/bOq8lfuHkb0/0.jpg)](https://www.youtube.com/watch?v=bOq8lfuHkb0)
 
 # IF LSERA (angel eye)  ISNT WORKING RELOG AND IT SHOULD FIX
 
